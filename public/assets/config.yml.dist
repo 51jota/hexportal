@@ -2,8 +2,8 @@
 # Homepage configuration
 # See https://fontawesome.com/search for icons options
 
-title: "Demo dashboard"
-subtitle: "Homer"
+title: "Centro de Controle de Zaun e Piltover"
+subtitle: "HexPortal"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
